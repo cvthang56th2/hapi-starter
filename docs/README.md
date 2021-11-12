@@ -10,7 +10,7 @@ This starter project sets up an architecture for building REST services using th
 The starter also establishes some good architectural practices - separation of concerns, inversion of control, etc - and provides some conveniences for developers such as HAPI route configuration via metadata and a flexible method for externalizing configuration parameters.
 
 ## Why it exists?
-7 Miles Global has twice attempted to build a software product called MASI, with both attempts falling short of their goals.  In order to have a better chance at success, several architectural concerns were identified.  The architecture implemented in this starter project is an attempt to address those concerns technically.  At the same time, we didn't want to throw out parts of the architecture developers were already familiar with (like HAPI).
+7 Miles Global has twice attempted to build a software product called MAZI, with both attempts falling short of their goals.  In order to have a better chance at success, several architectural concerns were identified.  The architecture implemented in this starter project is an attempt to address those concerns technically.  At the same time, we didn't want to throw out parts of the architecture developers were already familiar with (like HAPI).
 
 Given that there was a good amount of change for developers, it made sense to create this starter to bootstrap development on the new architecture.
 
